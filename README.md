@@ -1,0 +1,2 @@
+# outi
+beginner coding practice
